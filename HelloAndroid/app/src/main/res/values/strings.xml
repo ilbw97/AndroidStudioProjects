@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="strchbox1">Android가 궁금하십니까?</string>
+    <string name="strBtn1">Wikipedia에서 Android 검색하기</string>
+</resources>
